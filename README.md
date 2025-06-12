@@ -4,7 +4,6 @@ A modern, responsive landing page for the MYBIKE electric bicycle brand. Built b
 
 # 📸 Preview
 - [DEMO LINK](https://VladRoz95.github.io/layout_MYBYKE-store/)
-Clean and responsive design with mobile navigation, product highlight sections, and a contact form.
 
 
 # 🔧 Tech Stack
