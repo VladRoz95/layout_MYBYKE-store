@@ -18,15 +18,15 @@ Clean and responsive design with mobile navigation, product highlight sections, 
 # ⚙️ Getting Started
 Clone the repository:
 
-git clone https://github.com/your-username/mybike-landing.git
-cd mybike-landing
+- git clone https://github.com/your-username/mybike-landing.git
+- cd mybike-landing
+
 If using a preprocessor, install dependencies:
+- npm install
 
-npm install
 Compile SCSS manually (if not using a bundler):
-
-sass styles/main.scss styles/main.css
-Open index.html in your browser.
+- sass styles/main.scss styles/main.css
+- Open index.html in your browser.
 
 
 # 📐 Features
