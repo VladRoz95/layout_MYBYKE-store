@@ -9,7 +9,6 @@ A modern, responsive landing page for the MYBIKE electric bicycle brand. Built b
 # 🔧 Tech Stack
 - HTML5 — semantic layout
 - SCSS (Sass) — modular structure with variables and mixins
-- Vanilla JavaScript — for mobile menu toggle
 - BEM methodology — for class naming
 - Responsive Design — Mobile-first approach
 
