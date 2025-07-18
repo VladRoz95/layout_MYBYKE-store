@@ -1,5 +1,5 @@
 # 🚲 MYBIKE — Electric Bike Landing Page
-A modern, responsive landing page for the MYBIKE electric bicycle brand. Built based on the Figma design using HTML, SCSS, and JavaScript.
+A modern, responsive landing page for the MYBIKE electric bicycle brand. Built based on the Figma design using HTML, SCSS.
 
 
 # 📸 Preview
